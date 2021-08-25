@@ -3,3 +3,5 @@ Hello World
 Try to conflict
 
 Sekarang akan coba squash
+
+butuh 3x commit baru
