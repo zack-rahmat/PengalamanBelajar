@@ -5,3 +5,5 @@ Try to conflict
 Sekarang akan coba squash
 
 butuh 3x commit baru
+
+and this the last change
